@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 
 
@@ -37,7 +37,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 
 
@@ -52,7 +52,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 
 
