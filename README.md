@@ -5,6 +5,8 @@
 
 ### <div align="center">I'm seungyeon, fronetend developer 👨‍💻 working remotely since 2021🚀  <br>🔭 github [seungyyy](https://github.com/seungyyy)</div>  
   
+  <br>
+  <br>
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
   
@@ -18,13 +20,16 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
+<br>
+
+## My Skill Set  
+
+<br>
 
 
 ### Frontend  
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -37,12 +42,12 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+<br>
 
 
 
 ### Backend  
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
@@ -52,17 +57,19 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
 
+<br>
+<br/>  
+<br>
+
+## Connect with me  
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/seungyyy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -73,12 +80,18 @@
   
 
 <br/>  
-
+<br>
+<br>
 
 ## Github Stats  
+
+<br/>  
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=seungyyy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+<br>
+<br>
 
 
 
