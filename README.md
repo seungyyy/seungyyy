@@ -8,6 +8,7 @@
 <a href="https://www.facebook.com/seungyeonleeyyy" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungyyy%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>  
 
 
@@ -46,10 +47,6 @@
 <br/>  
 <br>
 <br>
-
-## Github Stats  
-
-<br/>  
 
 <img src="https://github-readme-stats.vercel.app/api?username=seungyyy&theme=discord_old_blurple&show_icons=true&count_private=true&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungyyy&theme=discord_old_blurple&layout=compact" />
