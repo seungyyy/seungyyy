@@ -1,7 +1,8 @@
 ## <div>Hi there 👋</div>  
 <div>I'm seungyeon, fronetend developer 👨‍💻 <div>
-<div align="left">
 <br>
+<div>Portfolio : <a href="https://seungyeon-portfolio.vercel.app/">https://seungyeon-portfolio.vercel.app/</a></div>
+<div>Email: <a href="mailto:﻿"dus3214@gmail.com">dus3214@gmail.com</a></div>
 
 
 
